@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.responsive {
+  display: grid;
+  margin: 20px;
+  gap: 15px;
+}
+
+.top {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: 1fr 2fr;
+}
+
+.one {
+  height: 100px;
+  background: #65a0cc;
+}
+
+.two {
+  height: 100px;
+  background: #ababa9;
+}
+
+.three {
+  height: 250px;
+  background: #797977;
+}
+
+.bottom {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.four {
+  height: 250px;
+  background: #b1d6e6;
+}
+
+.five {
+  height: 250px;
+  background: #c5c6c0;
+}
+
+@media only screen and (max-width: 600px) {
+  .bottom {
+    grid-template-columns: 1fr;
+  }
+  .four {
+    height: 100px;
+  }
+}
