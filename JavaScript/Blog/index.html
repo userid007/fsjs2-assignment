@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <title>Blog</title>
+  </head>
+  <body class="box-border">
+    <nav class="text-center bg-[#7656E3] text-white shadow-xl mb-10">
+      <div class="container mx-auto">
+        <h1 class="py-5 text-3xl font-bold">Blog</h1>
+      </div>
+    </nav>
+    <main id="main" class="container mx-auto">
+      <div class="text-center">Data is loading</div>
+    </main>
+    <div class="container mx-auto">
+      <form class="flex flex-col justify-center items-center gap-4" onclick="">
+        <input
+          class="px-2 py-1 border-2 border-gray-600 rounded-md"
+          type="text"
+          name="title"
+          id="title"
+          placeholder="title"
+        />
+        <textarea
+          class="p-2 border-2 border-gray-600 rounded-md"
+          placeholder="Type here ...."
+          name="body"
+          id="body"
+          cols="50"
+          rows="10"
+        ></textarea>
+        <button
+          class="bg-[#7456E3] text-white px-6 py-2 rounded-lg"
+          type="submit"
+          id="submit"
+        >
+          Submit
+        </button>
+      </form>
+    </div>
+    <script src="./script.js"></script>
+  </body>
+</html>
