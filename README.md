@@ -1,6 +1,7 @@
 # fsjs2-assignment
 
 ### HTML
+1. [Class Form](https://cerulean-churros-2cc0b6.netlify.app/html/classform/)
 2. [Time Table](https://cerulean-churros-2cc0b6.netlify.app/html/timetable/)
 
 ### CSS
