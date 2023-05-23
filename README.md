@@ -1,5 +1,8 @@
 # fsjs2-assignment
 
+### HTML
+2. [Time Table](https://cerulean-churros-2cc0b6.netlify.app/html/timetable/)
+
 ### CSS
 
 1. [Periodic Table](https://cerulean-churros-2cc0b6.netlify.app/css/periodic%20table/)
