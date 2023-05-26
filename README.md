@@ -14,9 +14,9 @@
 
 ### JavaScript
 
-12. [Blog] (https://cerulean-churros-2cc0b6.netlify.app/javascript/blog/)
+12. [Blog](https://cerulean-churros-2cc0b6.netlify.app/javascript/blog/)
 
 ## React
 
-9. [Contex-Api] (https://enchanting-axolotl-d85a21.netlify.app)
-10. [Counter] (https://tubular-tulumba-b2e832.netlify.app)
+9. [Contex-Api](https://enchanting-axolotl-d85a21.netlify.app)
+10. [Counter](https://tubular-tulumba-b2e832.netlify.app)
