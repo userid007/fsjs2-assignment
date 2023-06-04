@@ -44,6 +44,6 @@
 
 ##
 
-14. [TicTacToe](https://animated-sprinkles-e2debb.netlify.app)
+14. [Tic Tac Toe](https://animated-sprinkles-e2debb.netlify.app)
 
 #
