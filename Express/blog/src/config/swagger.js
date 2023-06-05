@@ -1,7 +1,7 @@
 export const swaggerDocument = {
   openapi: "3.0.0",
   info: {
-    title: "Ecomm App",
+    title: "Blog App",
     description: "REST API Documentation",
     version: "1.0.0",
   },
